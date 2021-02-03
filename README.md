@@ -1,4 +1,4 @@
-### Welcome! My name is Vladyslav Ieliashevskyi and I'm from :ua:
+### Welcome! My name is Vladyslav Ieliashevskyi and I'm from :ukraine:
 I'm a Game Designer specialized in game AI with large development background and deep interest in general AI and ML technics. Here is a brief about me:
 - Strong experience in full development cycle from feature request to integration and deployment (Technical Lead Role for mobile Blackberry SDK)
 - Strong experience in Agile processes (Took role of a Scrum Master for three teams while performing main duties as a Game Designer at ShadowMasters Games)
@@ -32,8 +32,8 @@ TBD
 TBD
 
 ### :telephone: Contacts
-[LinkedIn]: (https://www.linkedin.com/in/velashevskyy/)
-[Twitter]: (https://twitter.com/vieliashevskyi)
+[LinkedIn](https://www.linkedin.com/in/velashevskyy/)
+[Twitter](https://twitter.com/vieliashevskyi)
 
 <!--
 **vieliashevskyi/vieliashevskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
