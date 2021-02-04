@@ -21,11 +21,11 @@ I'm also able to provide consultation on AI in your game on a freelance basis.
 Feel free to contact me!
 
 ### :point_down: 2021 Goal List
-[] :memo: Start writing technical articles focused on game AI
-[] :game_die: Create portfolio of a prototypes on GitHub
-[] :construction: Reanimate old maze runner written in C++
-[] :robot: Implement some ML models to play simple games
-[] :school: Poke around Unreal Engine
+- [ ] :memo: Start writing technical articles focused on game AI
+- [ ] :game_die: Create portfolio of a prototypes on GitHub
+- [ ] :construction: Reanimate old maze runner written in C++
+- [ ] :robot: Implement some ML models to play simple games
+- [ ] :school: Poke around Unreal Engine
 
 ### :tv: Selected YouTube Videos
 [Webinar: AI in Games. From A to Z. (Ukrainian language)](https://www.youtube.com/watch?v=xpix1e4zIqY)
