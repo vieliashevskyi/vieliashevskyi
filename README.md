@@ -16,7 +16,7 @@ I'm a Game Designer, specialized in game AI, with large development background a
 ## 👯 At the moment I’m looking for a job in gaming industry, preferably as a game AI designer 
 I'm an avid gamer but genres that are of my main interest include RTS, MOBA, FPS, TPS and Action Adventure Games. I love working on hardcore games with strong emphasis on mechanics.
 
-I'm also able to provide consultation on AI in your game on a freelance basis.
+I'm also able to provide consultation on AI in your game on a freelance basis. Available for public speaking on thematic conferences.
 
 Feel free to contact me!
 
@@ -26,6 +26,13 @@ Feel free to contact me!
 - [ ] :construction: Reanimate old maze runner written in C++
 - [ ] :robot: Implement some ML models to play simple games
 - [ ] :school: Poke around Unreal Engine
+
+### :mega: Public Speaker
+I had a pleasure to be a public speaker on few gamedev events and webinars. Topics I've covered during my speeches:
+- "Using iBeacons in Game Development" 
+- "Basics of Game Design and how the Design team works with QA"
+- "Game Design: Through the Looking Glass"
+- "AI in Games. From A to Z."
 
 ### :tv: Selected YouTube Videos
 [Webinar: AI in Games. From A to Z. (Ukrainian language)](https://www.youtube.com/watch?v=xpix1e4zIqY)
