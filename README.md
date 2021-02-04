@@ -13,7 +13,7 @@ I'm a Game Designer, specialized in game AI, with large development background a
     - Final tuning and tweaking inside game editor
     - Iterative approach based on feedback and gathered analytics
 
-## 👯 At the moment I’m looking for a job in gaming industry, preferably as a game AI designer 
+### 👯 At the moment I’m looking for a job in gaming industry, preferably as a game AI designer 
 I'm an avid gamer but genres that are of my main interest include RTS, MOBA, FPS, TPS and Action Adventure Games. I love working on hardcore games with strong emphasis on mechanics.
 
 I'm also able to provide consultation on AI in your game on a freelance basis. Available for public speaking on thematic conferences.
