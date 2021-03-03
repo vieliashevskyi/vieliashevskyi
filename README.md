@@ -26,6 +26,7 @@ Feel free to contact me!
 - [ ] :construction: Reanimate old maze runner written in C++
 - [ ] :robot: Implement some ML models to play simple games
 - [ ] :school: Poke around Unreal Engine
+- [ ] :eyes: Transform one of my stories into Interactive Fiction using one of existing tools and publish it online
 
 ### :mega: Public Speaker
 I had a pleasure to be a public speaker on few gamedev events and webinars. Topics I've covered during my speeches:
