@@ -23,7 +23,7 @@ Feel free to contact me!
 ### :point_down: 2021 Goal List
 - [ ] :memo: Start writing technical articles focused on game AI
 - [ ] :game_die: Create portfolio of a prototypes on GitHub
-- [ ] :construction: Reanimate old maze runner written in C++
+- [x] :construction: Reanimate old maze runner written in C++. [GitHub Source](https://github.com/vieliashevskyi/deepest-descent) and [Itch.io Release](https://vieliashevskyi.itch.io/deepest-descent)
 - [ ] :robot: Implement some ML models to play simple games
 - [ ] :school: Poke around Unreal Engine
 - [ ] :eyes: Transform one of my stories into Interactive Fiction using one of existing tools and publish it online
