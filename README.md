@@ -34,6 +34,7 @@ I had a pleasure to be a public speaker on few gamedev events and webinars. Topi
 - "Basics of Game Design and how the Design team works with QA"
 - "Game Design: Through the Looking Glass"
 - "AI in Games. From A to Z."
+- "NFT Realm. Non-Fungible Tokens - Adoption and Application"
 
 ### :tv: Selected YouTube Videos
 [Webinar: AI in Games. From A to Z. (Ukrainian language)](https://www.youtube.com/watch?v=xpix1e4zIqY)
